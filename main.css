@@ -1,0 +1,42 @@
+body {
+  background-color: #09031b;
+  color: white;
+  font-family: sans-serif;
+}
+
+nav {
+  background-color: #1c183d;
+  list-style-type: none;
+  margin: 10px;
+  font-size: 16px;
+  padding: 10px;
+  float: left;
+  border-radius: 8px;
+  height: 75%;
+  position: fixed;
+}
+
+a {
+  display: block;
+  background-color: #30355b;
+  padding: 10px;
+  margin: 10px;
+  border-radius: 8px;
+  font-weight: bold;
+  max-width: 1.25in;
+}
+
+h1 {
+  text-align: center;
+  font-size: 60px;
+}
+
+p {
+  text-indent: 0.5in;
+  font-size: 16px;
+  line-height: 150%;
+}
+
+#main-content {
+  margin: 1in 3in;
+}
