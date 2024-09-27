@@ -1,0 +1,32 @@
+What is the Right to Repair?
+
+The Right to Repair movement seeks legislation that would require companies to make available to their consumers and independant repair providers
+the tools, documentation, and parts neccesary to repair goods they have purchased. 
+
+- Overview
+- Areas it impacts
+  - Computers, Phones
+  - Farm Equipment
+  - Medical Equipment and Wheelchairs
+  - Environment
+- Address counterarguments
+  - You want this for free?
+    - No, we want to be able to purchase what we need to repair our devices
+  - Intellectual Property
+    - Schematics, historically, were included when you bought the product
+    - Technically possible to create a schematic as long as you have a multimeter and the circuit board
+  - Safety
+    - User choice
+    - Cars
+  - Company Reputation
+  - Increasing complexity of technology
+    - Still give people the opportunity
+    - Not asking for simpler devices, just what is required to repair them
+  - Security
+    - Security by obscurity is not security
+    - Manufacturer repair employees are just as likely to invade your privacy as third party employees are
+      - Repair shops can and will lose their license if they do this
+
+- What has / is being done about it
+  - Legislation
+  - Companies
