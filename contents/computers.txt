@@ -6,3 +6,31 @@ Non-OEM parts
 Serialized parts
 Price
 Faster repair time
+
+
+Computer Technology
+
+Devices such as phones, laptops, and desktops all need to be repaired at some point or another. Right to repair aims to give consumers the ability to take
+their devices to an independant (not affiliated with the manufacturer) repair provider, or even fix it themselves if they choose. Right to repair's primary
+impact on the personal computer market would be the lowering of repair costs. Allowing independant repair providers the resources nessesary to fix a device
+would increase consumers' options when it comes to getting their device repaired, denying manufacturers the ability to monopolize repair of their devices and
+drive up the price. In addition, independant repair providers are far more likely to be close to the consumer, and can often perform repairs as consumers come
+in, meaning they don't have to wait days to get their device fixed. Given that the cost of a repair is the most important factor in a consumer's decision
+between replacing or repairing a product (https://article.images.consumerreports.org/prod/content/dam/surveys/Consumer_Reports_Right_to_Repair_Survey_2021 pg3),
+dropping the price of repairs would almost certainly increase the percentage of consumers who choose to get their devices repaired.
+
+Activists for Right to Repair in the field of computer technology frequently seek the resources to perform component-level repair. This means that, instead of
+replacing a devices' entire mainbord when a capacator is shorted, a repair technitian can instead find and replace the broken capacator, a component that is sold
+very cheaply in large quanities, and make the device functional again. That's a pretty dramatic reduction in price. But without schematics to the mainboard of a
+device, independant repair technitians cannot identify the broken component, meaning consumers have to go to the manufacturer or "authorized" repair technitian
+for a mainboard replacement. (Manufacturers, such as Apple, don't offer component level repair and often prohibit authorized repair services from providing it.)
+
+Additionally, manufacturers frequently choose to use things like rivets and glue instead of screws to hold parts of a device together, making it more difficult
+and risky to perform a repair on a device. Apple is known to have their devices read the serial numbers of their parts, meaning identical OEM
+(original equipment manufacturer) parts will serve popups to the user saying that the new parts cannot be verified as genuine. In addition,
+devices have been reported to deny or limit functionality to the user if the parts in the device aren't the original parts. (https://www.youtube.com/watch?v=FY7DtKMBxBw) 
+
+It is worth noting that some manufacturers, such as Framework and Fairphone, have made it their mission to create devices that are designed to be repaired, upgraded, 
+and used for long periods of time.
+
+(https://www.youtube.com/watch?v=0NCjoUx-KLI)

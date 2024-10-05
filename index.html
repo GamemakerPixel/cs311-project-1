@@ -8,21 +8,40 @@
     <link rel="stylesheet" href="main.css">
   </head>
   <body>
-    <nav>
-      <a id="active-page">Home</a>
-      <a href="pages/computers.html">Computer Technology</a>
-      <a href="pages/farming.html">Farming</a>
-      <a href="pages/medical.html">Medical Equipment</a>
-      <a href="pages/environment.html">Environmental Impacts</a>
+    <nav id="nav-bar" onmouseenter="openNav()" onmouseleave="closeNav()">
+      <a class="navigation-link" id="active-page">Home</a>
+      <a class="navigation-link" href="pages/computers.html">Computer Technology</a>
+      <a class="navigation-link" href="pages/farming.html">Farming</a>
+      <a class="navigation-link" href="pages/medical.html">Medical Equipment</a>
+      <a class="navigation-link" href="pages/environment.html">Environmental Impacts</a>
     </nav>
     <div id="main-content">
-      <h1>Do you really own what you buy?</h1>
+      <h1>What is Right to Repair?</h1>
+      <img src="assets/images/right_to_repair_logo.jpg" alt="Right to repair logo of fist holding wrench."/>
+      <a class="image-credit" href="https://www.ifixit.com/News/35268/how-to-get-involved-with-right-to-repair">Image from iFixIt</a>
       <p>
-	The Right to Repair movement seeks legislation that would require companies to make available to their consumers and independant repair providers
-the tools, documentation, and parts neccesary to repair goods they have purchased. 
+	  Right to Repair is a movement aimed at passing legislation that would require companies to make available to their consumers and independant repair providers
+the tools, documentation, and parts neccesary to repair electronic devices they have purchased. Let's break each part of that down. Consumers of electronic
+devices need to have access to the tools nessesary to work on their device. When you think of a tool, you may think of a screwdriver, wrench, or even a
+soldering iron. But these tools are already avaliable for consumers to purchase. Often, proprietary tools, such as software, are not for sale to consumers, and
+are only used by the manufacturer's offical repair service. Proprietary software like this may be nessesary to calibrate parts or diagnose specific issues,
+among other things. In a world where technology is getting increasingly more complex, documentation, like schematics, are often nessesary to fix a device at
+the component level. Just because you can see what's inside a device doesn't mean you know how its wired. Finally, consumers need the parts to fix their 
+devices. Far too frequently, manufacturers sell little to no parts to their products. Apple in particular is known to make slight changes to common chips, like
+flipping the position of a few pins, and then tell their contractors not to sell the chip to anyone else. This encourages consumers to consider buying an 
+entirely new device before they consider trying to repair their device.
       </p>
-      <h2>What industries does it impact?</h2>
-      <h2>Common Counterarguments</h2>
+      <p>
+	Overall, the Right to Repair is supported in four main areas. Right to repair would drive down the cost of maintaining personal computing devices (phones, 
+laptops, desktops, etc.) and allow consumers to use an older device for as long as they would like, without being dependant on the manufacturer for repair
+services. It would also allow farmers to get their equipment fixed a lot faster than if they have to wait for the offical repair provider to send someone out
+to them. This allows them to avoid missing the small time windows they have to work in if they want a significant crop yeild. Additionally, it would allow 
+hospitals to operate cheaper and better handle large amounts of patients, making them less prone to being overloaded during a crisis. Also, it would give
+wheelchair users the ability to get their wheelchair fixed in a timely manner, when it can frequently take four or more weeks for an offical repair to be
+completed. Finally, encouraging people to repair their devices promotes both reduction and reuse of potential e-waste - two factors often considered to be far
+more important than recycling.
+      </p>
     </div>
+    <script src="scripts/interactiveNav.js"></script>
   </body>
 </html>

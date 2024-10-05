@@ -12,20 +12,12 @@ nav {
   padding: 10px;
   float: left;
   border-radius: 8px;
-  height: 75%;
-  position: fixed;
+  width: 1.75in;
 }
 
 a {
-  display: block;
-  background-color: #30355b;
-  padding: 10px;
-  margin: 10px;
-  border-radius: 8px;
   font-weight: bold;
-  max-width: 1.25in;
   color: white;
-  text-decoration: none;
 }
 
 h1 {
@@ -37,6 +29,33 @@ p {
   text-indent: 0.5in;
   font-size: 16px;
   line-height: 150%;
+}
+
+img {
+  margin: auto auto;
+  width: 75%;
+  display: block;
+}
+
+iframe {
+  margin: auto auto;
+  display: block;
+}
+
+.navigation-link {
+  display: inline-block;
+  background-color: #30355b;
+  padding: 10px;
+  margin: 10px;
+  border-radius: 8px;
+  width: 1.25in;
+  height: 0.5in;
+  text-decoration: none;
+  float: left;
+}
+
+.image-credit {
+  text-align: center;
 }
 
 #main-content {

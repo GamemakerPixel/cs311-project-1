@@ -1,3 +1,15 @@
 Why repair time is critial - harvest window
 Proprietry diagnostic software only avaliable to manufacturer's technicians
 
+Right to repair for farmers is critical for two reasons: time and money. When a piece of large
+farming equiment breaks down, its not as simple as just driving it over to the manufacturer for a
+repair. Farms are frequently very far from urban areas, making the drive to an equipment manufacturer
+such as John Deere too time consuming. Even when the manufacturer sends out a repair technitian to the
+location of the equipment, the time between the diagnosis of the problem and the shipping of the replacement
+part can mean a farmer is unable to do a time-critial task, such as harvesting a crop. Because of 
+this, some farmers have actually continued to use older equipment with less restrictions on repair.
+
+Additionally, farming equipment manufacturers, while they might sell the peice of equipment itself,
+they often do not give their customers the rights to use the software imbedded inside the equipment,
+meaning farmers now lack the ability to diagnose and fix problems with their equipment. (https://www.youtube.com/watch?v=EPYy_g8NzmI)
+
